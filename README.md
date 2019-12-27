@@ -1,4 +1,5 @@
-# work
+# Development Work
+
 This is a Combination of work I have done and am showing to anyone who can see this.
 
 Basics of Artificial Intelligence is a Android Application I did and received a 100 on for ECPI while I was a student, this was my capstone project.
